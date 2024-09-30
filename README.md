@@ -1,6 +1,6 @@
 # 딥러닝 수업 노트
 
-<img src="https://github.com/son-jy/pythonnote/blob/main/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpg" width="600" height="400">
+<img src="딥러닝.png" width="600" height="400">
 
 &nbsp;
 
