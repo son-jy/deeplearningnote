@@ -119,3 +119,13 @@
 - **5-6. 덧셈 노드의 역전파**:  📄[노트](https://www.notion.so/5-6-11bdf982be658005bb39dedb6fb12c71?pvs=21)
 
 - **5-7. 곱셈 노드의 역전파**:  📄[노트](https://www.notion.so/5-7-11bdf982be65805998d0c5be8fa186f1?pvs=21)
+
+- **5-8. 렐루 함수의 계산 그래프**:  📄[노트](https://www.notion.so/5-8-11cdf982be65806f9841fc08577b7294?pvs=21)
+
+- **5-9. 시그모이드 계층 구현하기**:  📄[노트](https://www.notion.so/5-9-11cdf982be65805a9a4ee28723ecc7aa?pvs=21)
+
+- **5-10. Affine 계층 구현하기**:  📄[노트](https://www.notion.so/5-10-Affine-11cdf982be6580dfb88fd012f2c6b5b8?pvs=21)
+
+- **5-11. 배치용 Affine 계층 구현하기**:  📄[노트](https://www.notion.so/5-11-Affine-11cdf982be6580a68a34f6c1d8518a46?pvs=21)
+
+- **5-12. 소프트 맥스 함수 with 오차 함수 계층 만들기**:  📄[노트](https://www.notion.so/5-12-with-11cdf982be6580da8060fec70ccb3266?pvs=21)
