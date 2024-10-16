@@ -161,3 +161,13 @@
 - **7-2. CNN 을 이용하지 않았을 때의 기존층의 문제점**:  📄[노트](https://www.notion.so/7-2-CNN-120df982be65804facb4d192d3865479?pvs=21)
 
 - **7-3. 합성곱 연산을 컴퓨터로 구현하는 방법**:  📄[노트](https://www.notion.so/7-3-120df982be6580d4b532eed020d6d374?pvs=21)
+
+- **7-4. 패딩**:  📄[노트](https://www.notion.so/7-4-121df982be658095aef6e1cbf34161c1?pvs=21)
+
+- **7-5. 3차원 합성곱**:  📄[노트](https://www.notion.so/7-5-3-121df982be6580e891fde690a791c2cf?pvs=21)
+
+- **7-6. 풀링(pooling) 계층 구현하기**:  📄[노트](https://www.notion.so/7-6-pooling-121df982be6580438559cf34e189cfb5?pvs=21)
+
+- **7-7. RGB 채널일 때의 maxpooling**:  📄[노트](https://www.notion.so/7-7-RGB-maxpooling-121df982be6580329411e47e26650619?pvs=21)
+
+- **7-8. CNN 구현하기**:  📄[노트](https://www.notion.so/7-8-CNN-121df982be6580928201cc296b2e3109?pvs=21)
