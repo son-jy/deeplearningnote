@@ -191,3 +191,5 @@
 - **8-3. 사진 속에 사물 검출 신경망 만들기**:  📄[노트](https://www.notion.so/8-3-129df982be65804b8fa4f7193a0a37d3?pvs=21)
 
 - **8-4. [object detection] 동영상속에 이미지 분류**:  📄[노트](https://www.notion.so/8-4-object-detection-12ddf982be65802988b2e1ed29c50328?pvs=21)
+
+- **[8-5. 얼굴 인식 신경망 만들기**:  📄[노트](https://www.notion.so/8-5-12ddf982be65801b9891df01c4b70eea?pvs=21)
