@@ -218,7 +218,7 @@
 
 - **flask 를 이용해서 홈페이지에서 음성 자동화 하기**:  📄[노트](https://www.notion.so/flask-134df982be6580faa6a5dd22a3782941?pvs=21)
 
-- **[플라스크로 홈페이지 만들어서 영상 재생하기 + with ChatGPT**:  📄[노트](https://www.notion.so/with-ChatGPT-135df982be658092a265e28548ead72a?pvs=21)
+- **플라스크로 홈페이지 만들어서 영상 재생하기 + with ChatGPT**:  📄[노트](https://www.notion.so/with-ChatGPT-135df982be658092a265e28548ead72a?pvs=21)
 
 - **스트림잇을 다시 플라스크로 전면 개선 + with ChatGPT**:  📄[노트](https://www.notion.so/with-ChatGPT-136df982be6580f08292f2f15f4590b1?pvs=21)
 
