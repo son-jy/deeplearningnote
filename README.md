@@ -241,3 +241,7 @@
 - **메인 홈페이지에서 버튼 눌렀을때 영상 검출 페이지로 넘어가기**:  📄[노트](https://www.notion.so/13edf982be658071955ac054577ab829?pvs=21)
 
 - **tkinter 로 구현한 화면 exec 파일 만드는 과정 총정리**:  📄[노트](https://www.notion.so/tkinter-exec-13edf982be65801f821aef1c2e0045c5?pvs=21)
+
+- **프로젝트 시연 영상 만드는 방법**:  📄[노트](https://www.notion.so/13fdf982be65809c9152ddebbfa3b20e?pvs=21)
+
+- **tkinter 로 chatgpt api 와 연동해서 대화하기**:  📄[노트](https://www.notion.so/tkinter-chatgpt-api-13fdf982be6580379c24d69214a4e636?pvs=21)
